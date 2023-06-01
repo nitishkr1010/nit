@@ -1,0 +1,12 @@
+username = //*[@id="user-name"]
+password =//*[@id="password"]
+loginbutton =/html/body/div/div/div[2]/div[1]/div/div/form/input
+addtocart =//*[@id="add-to-cart-sauce-labs-backpack"]
+openthecart = //*[@id="shopping_cart_container"]/a
+removethecart = //*[@id="remove-sauce-labs-backpack"] 
+checkoutthecart = //*[@id="checkout"]
+firstname = //*[@id="first-name"]
+lastname = //*[@id="last-name"]
+zipcode = //*[@id="postal-code"]
+browsername = chrome
+browsername = firefox
